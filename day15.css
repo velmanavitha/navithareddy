@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+}
+
+
+table{
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+.black{
+    background-color: black;
+    width: 50px;
+}
+.white{
+    color: white;
+    width: 50px;
+}
+.black:hover{
+    background-color:lavender;
+}
+.white:hover{
+    background-color:lightcoral;
+}
